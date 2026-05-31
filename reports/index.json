@@ -1,0 +1,36 @@
+{
+  "colorPalette": "amber-warm",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260524-210131-4l12",
+      "title": "Hunhildr, Plains Da Reaper",
+      "commanders": [
+        "Hunhildr",
+        "Plains Da Reaper"
+      ],
+      "dateStart": "2026-05-25T01:01:31.000Z",
+      "dateEnd": "2026-05-25T02:55:34.000Z",
+      "dateLabel": "5/24/2026, 9:01:31 PM - 5/24/2026, 10:55:34 PM",
+      "url": "https://MylovisPugs.github.io/PUGSlogs/?report=20260524-210131-4l12",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 20
+      }
+    }
+  ]
+}
