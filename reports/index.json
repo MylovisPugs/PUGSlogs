@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-211403-ue7n",
+      "title": "Mylo Da Reaper",
+      "commanders": [
+        "Mylo Da Reaper"
+      ],
+      "dateStart": "2026-06-01T01:14:03.000Z",
+      "dateEnd": "2026-06-01T02:51:29.000Z",
+      "dateLabel": "5/31/2026, 9:14:03 PM - 5/31/2026, 10:51:29 PM",
+      "url": "https://MylovisPugs.github.io/PUGSlogs/?report=20260531-211403-ue7n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260531-211403-rayh",
       "title": "Mylo Da Reaper",
       "commanders": [
