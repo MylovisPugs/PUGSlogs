@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-213454-b3pt",
+      "title": "Mylo Da Reaper",
+      "commanders": [
+        "Mylo Da Reaper"
+      ],
+      "dateStart": "2026-06-22T01:34:54.000Z",
+      "dateEnd": "2026-06-22T02:59:43.000Z",
+      "dateLabel": "6/21/2026, 9:34:54 PM - 6/21/2026, 10:59:43 PM",
+      "url": "https://MylovisPugs.github.io/PUGSlogs/?report=20260621-213454-b3pt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260607-210932-rlby",
       "title": "Mylo Da Reaper",
       "commanders": [
