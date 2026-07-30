@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-211311-yxd1",
+      "title": "Johnny Fayth",
+      "commanders": [
+        "Johnny Fayth"
+      ],
+      "dateStart": "2026-07-30T01:13:11.000Z",
+      "dateEnd": "2026-07-30T01:33:53.000Z",
+      "dateLabel": "7/29/2026, 9:13:11 PM - 7/29/2026, 9:33:53 PM",
+      "url": "https://MylovisPugs.github.io/PUGSlogs/?report=20260729-211311-yxd1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 51,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260719-211133-vhb0",
       "title": "Ilomay, Mylo Da Reaper",
       "commanders": [
