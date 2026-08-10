@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-211424-677g",
+      "title": "Ilomay",
+      "commanders": [
+        "Ilomay"
+      ],
+      "dateStart": "2026-08-10T01:14:24.000Z",
+      "dateEnd": "2026-08-10T03:08:05.000Z",
+      "dateLabel": "8/9/2026, 9:14:24 PM - 8/9/2026, 11:08:05 PM",
+      "url": "https://MylovisPugs.github.io/PUGSlogs/?report=20260809-211424-677g",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260729-211311-yxd1",
       "title": "Johnny Fayth",
       "commanders": [
