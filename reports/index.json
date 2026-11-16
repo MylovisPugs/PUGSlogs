@@ -9,6 +9,42 @@
   },
   "entries": [
     {
+      "id": "20261115-211913-k5ku",
+      "title": "Baljeet Benchod, Mylo Da Reaper, Nnocturnn",
+      "commanders": [
+        "Baljeet Benchod",
+        "Mylo Da Reaper",
+        "Nnocturnn"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-11-16T02:19:13.000Z",
+      "dateEnd": "2026-11-16T03:32:04.527Z",
+      "dateLabel": "11/15/2026, 9:19:13 PM - 11/15/2026, 10:32:04 PM",
+      "url": "https://MylovisPugs.github.io/PUGSlogs/?report=20261115-211913-k5ku",
+      "publishedBy": "MylovisPugs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261021-211958-g3ly",
       "title": "Mylo Da Reaper",
       "commanders": [
